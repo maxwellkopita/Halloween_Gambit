@@ -1,5 +1,5 @@
-package Src.Core;
+package src.core;
 
-public class position {
+public class Position {
     
 }

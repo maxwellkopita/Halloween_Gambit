@@ -1,5 +1,5 @@
-package Src.Pieces;
+package src.pieces;
 
-public class knight {
+public class Knight {
     
 }
