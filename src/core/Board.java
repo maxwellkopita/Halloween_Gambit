@@ -41,7 +41,7 @@ public class Board {
     public void display(){
         System.out.println("  A  B  C  D  E  F  G  H");
         for (int r = 0; r <= 7; r++){
-            System.out.print((r+1) + " ");
+            System.out.print((8-r) + " ");
             for(int f = 0; f < 8; f++){
                 System.out.print(grid[r][f] + " " );
             }
